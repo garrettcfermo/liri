@@ -9,7 +9,7 @@ const fs = require("fs")
 const clear = require("clear")
 
 
-// Spotify Funcation
+// Spotify Function
 const spotify = song => {
   // API Keys
   var spotify = new Spotify(keys.spotify);
@@ -25,35 +25,76 @@ const spotify = song => {
       return console.log("Error occurred: " + err);
     }
 
-    var results =
-      `Your Spotify Results 
+    var results =`
+Your Spotify Results for ${song}!
 _______________________
 Artist Name : ${data.tracks.items[0].artists[0].name}
 Album Name : ${data.tracks.items[0].album.name}
 Song Name : ${data.tracks.items[0].name}
 Preview : ${data.tracks.items[0].preview_url}
+
 Request Time : ${moment().format('MMMM Do YYYY, h:mm:ss a')}
 _______________________`
 
     // Display Spotify Data
+    clear()
     console.log(results)
     restart()
 
     // Append to Log Text
-    fs.appendFile("log.txt", results, function (e) { if (err) { console.log(err) } })
+    fs.appendFile("log.txt", results, function (err) { if (err) { console.log(err) } })
   });
 }
 
 // Movie Function
 const movie = name =>{
   console.log(name)
+
+  var url = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"
+
+
+
   restart()
 }
 
+
 // Concert Function
 const concert = name =>{
-  console.log(name)
-  restart()
+
+  // Default no Band/Artist Given
+  if(name===""){name ="fiji"}
+  
+  //Pull API Concert Information
+  var url = `https://rest.bandsintown.com/artists/${name}/events?app_id=${keys.bit.id}`
+  request(url,(err,r,data)=>{
+    if(err){console.log(err)}
+    var concertData =JSON.parse(data)
+
+    if(concertData.length ===0){
+      clear()
+      console.log("There are no up coming concerts!")
+      restart()
+    } else{
+
+    var results =`
+Your Concert Results for ${name}!
+_______________________
+Venue Name : ${concertData[0].venue.name}
+Venue Location : ${concertData[0].venue.city}
+Date : ${moment(concertData[0].datetime).format("MM/DD/YYYY, h:mm a")}
+
+Request Time : ${moment().format("MM/DD/YYYY, h:mm:ss a")}
+_______________________`
+
+    // Display Concert Data
+    clear()
+    console.log(results)
+    restart()
+
+    // Append to Log Text
+    fs.appendFile("log.txt", results, function (err) { if (err) { console.log(err) } })
+    }
+  }) 
 }
 
 // Starting App Function
@@ -62,7 +103,7 @@ const askQuestion = () => {
   inquirer.prompt([
     {
       type: "list",
-      message: "Welcome Stranger! What would you like to do? Please choose one of the choices below",
+      message: "Welcome Stranger! What would you like to do? Please choose one of the choices below:",
       name: "userChoice",
       choices: ["Find Song Information", "Find Movie Information", "Find Band/Artist's next concert", "None of the Above"]
     }
@@ -113,6 +154,7 @@ const questionBreakout = (choice) => {
       break
     
     case "None of the Above":
+      clear()
       console.log("Sorry we couldn't help. Good Bye!")
       process.exit()
       break
