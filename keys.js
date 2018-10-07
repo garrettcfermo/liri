@@ -7,11 +7,6 @@ exports.spotify = {
   secret: process.env.SPOTIFY_SECRET
 }
 
-// OMDB API Keys
-exports.omdb = {
-  id: process.env.OMDB_ID
-}
-
 // Bands in Town API Keys
 exports.bit = {
   id: process.env.BIT_ID
