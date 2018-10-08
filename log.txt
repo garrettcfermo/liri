@@ -1,36 +1,221 @@
 
-Your Concert Results for the killers!
+Your Spotify Results for Somewhere over the Rainbow!
 _______________________
-Venue Name : iHeartRadio ALTer Ego 2019
-Venue Location : Los Angeles
-Date : 01/19/2019, 7:30 pm
-
-Request Time : 10/07/2018, 12:53:10 pm
-_______________________
-Your Concert Results for The Killers!
-_______________________
-Venue Name : iHeartRadio ALTer Ego 2019
-Venue Location : Los Angeles
-Date : 01/19/2019, 7:30 pm
-
-Request Time : 10/07/2018, 12:53:46 pm
-_______________________
-Your Spotify Results for Happy!
-_______________________
-Artist Name : Zedd
-Album Name : Happy Now
-Song Name : Happy Now
+Artist Name : Cast
+Album Name : A Star Is Born Soundtrack
+Song Name : Somewhere Over The Rainbow - Dialogue
 Preview : null
 
-Request Time : October 7th 2018, 1:12:00 pm
+Requested : October 7th 2018, 1:29:08 pm
 _______________________
-Your Concert Results for The Killers!
+Your Movie Results for Gone with the Wind!
 _______________________
-Venue Name : iHeartRadio ALTer Ego 2019
-Venue Location : Los Angeles
-Date : 01/19/2019, 7:30 pm
+Movie Title : Gone with the Wind
+Released Date : 1939
+IMDB Rating : 8.2
+Rotten Tomatoes Rating : 92%
+Produced Country : USA
+Language : English
+Plot : A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.
+Actors : Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes
 
-Request Time : 10/07/2018, 1:12:10 pm
+Requested : 10/07/2018, 1:29:40 pm
+_______________________
+Your Concert Results for Mumford and Sons!
+_______________________
+Venue Name : Oct 26-28: Voodoo Festival
+Venue Location : New Orleans
+Date : 10/26/2018, 7:00 pm
+
+Requested : 10/07/2018, 1:30:30 pm
+_______________________
+Your Concert Results for Chris Stapleton!
+_______________________
+Venue Name : All-American Road Show
+Venue Location : Charlotte
+Date : 10/11/2018, 7:00 pm
+
+Requested : 10/07/2018, 1:31:28 pm
+_______________________
+Your Spotify Results for Tennessee Whiskey!
+_______________________
+Artist Name : Chris Stapleton
+Album Name : Traveller
+Song Name : Tennessee Whiskey
+Preview : null
+
+Requested : October 7th 2018, 1:32:04 pm
+_______________________
+Your Spotify Results for Morning Ride!
+_______________________
+Artist Name : Fiji
+Album Name : 50th State of Mind
+Song Name : Morning Ride
+Preview : https://p.scdn.co/mp3-preview/dde923afca529269087a74c422ef6e0db9b560ea?cid=7661ac753f0f42869cc990bb8cc88514
+
+Requested : October 7th 2018, 1:32:22 pm
+_______________________
+Your Spotify Results for I Want it That Way!
+_______________________
+Artist Name : Backstreet Boys
+Album Name : The Hits--Chapter One
+Song Name : I Want It That Way
+Preview : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7661ac753f0f42869cc990bb8cc88514
+
+Requested : October 7th 2018, 2:03:10 pm
+_______________________
+Your Movie Results for Halloween!
+_______________________
+Movie Title : Halloween
+Released Date : 1978
+IMDB Rating : 7.8
+Rotten Tomatoes Rating : 93%
+Produced Country : USA
+Language : English
+Plot : Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield to kill again.
+Actors : Donald Pleasence, Jamie Lee Curtis, Nancy Kyes, P.J. Soles
+
+Requested : 10/07/2018, 2:04:03 pm
+_______________________
+Your Movie Results for Elm Street!
+_______________________
+Movie Title : A Nightmare on Elm Street
+Released Date : 1984
+IMDB Rating : 7.5
+Rotten Tomatoes Rating : 94%
+Produced Country : USA
+Language : English
+Plot : The monstrous spirit of a slain janitor seeks revenge by invading the dreams of teenagers whose parents were responsible for his untimely death.
+Actors : John Saxon, Ronee Blakley, Heather Langenkamp, Amanda Wyss
+
+Requested : 10/07/2018, 2:04:31 pm
+_______________________
+Your Movie Results for cars!
+_______________________
+Movie Title : Cars
+Released Date : 2006
+IMDB Rating : 7.1
+Rotten Tomatoes Rating : 74%
+Produced Country : USA
+Language : English, Italian, Japanese, Yiddish
+Plot : A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+Actors : Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+
+Requested : 10/07/2018, 2:04:47 pm
+_______________________
+Your Movie Results for Halloween!
+_______________________
+Movie Title : Halloween
+Released Date : 1978
+IMDB Rating : 7.8
+Rotten Tomatoes Rating : 93%
+Produced Country : USA
+Language : English
+Plot : Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield to kill again.
+Actors : Donald Pleasence, Jamie Lee Curtis, Nancy Kyes, P.J. Soles
+
+Requested : 10/08/2018, 10:04:29 am
+_______________________
+Your Spotify Results for Morning Ride!
+_______________________
+Artist Name : Fiji
+Album Name : 50th State of Mind
+Song Name : Morning Ride
+Preview : https://p.scdn.co/mp3-preview/dde923afca529269087a74c422ef6e0db9b560ea?cid=7661ac753f0f42869cc990bb8cc88514
+
+Requested : October 8th 2018, 10:06:16 am
+_______________________
+Your Movie Results for Batman!
+_______________________
+Movie Title : Batman
+Released Date : 1989
+IMDB Rating : 7.6
+Rotten Tomatoes Rating : 72%
+Produced Country : USA, UK
+Language : English, French, Spanish
+Plot : The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors : Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+Requested : 10/08/2018, 10:06:21 am
+_______________________
+Your Movie Results for Batman!
+_______________________
+Movie Title : Batman
+Released Date : 1989
+IMDB Rating : 7.6
+Rotten Tomatoes Rating : 72%
+Produced Country : USA, UK
+Language : English, French, Spanish
+Plot : The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors : Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+Requested : 10/08/2018, 10:43:49 am
+_______________________
+Your Movie Results for Batman!
+_______________________
+Movie Title : Batman
+Released Date : 1989
+IMDB Rating : 7.6
+Rotten Tomatoes Rating : 72%
+Produced Country : USA, UK
+Language : English, French, Spanish
+Plot : The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors : Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+Requested : 10/08/2018, 10:45:44 am
+_______________________
+Your Movie Results for Batman!
+_______________________
+Movie Title : Batman
+Released Date : 1989
+IMDB Rating : 7.6
+Rotten Tomatoes Rating : 72%
+Produced Country : USA, UK
+Language : English, French, Spanish
+Plot : The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors : Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+Requested : 10/08/2018, 10:52:36 am
+_______________________
+Your Spotify Results for Only Love!
+_______________________
+Artist Name : Ben Howard
+Album Name : Every Kingdom
+Song Name : Only Love
+Preview : null
+
+Requested : October 8th 2018, 12:20:36 pm
+_______________________
+Your Movie Results for Batman!
+_______________________
+Movie Title : Batman
+Released Date : 1989
+IMDB Rating : 7.6
+Rotten Tomatoes Rating : 72%
+Produced Country : USA, UK
+Language : English, French, Spanish
+Plot : The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors : Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+Requested : 10/08/2018, 12:34:17 pm
+_______________________
+Your Spotify Results for Riptide!
+_______________________
+Artist Name : Vance Joy
+Album Name : Dream Your Life Away (Special Edition)
+Song Name : Riptide
+Preview : https://p.scdn.co/mp3-preview/0dd45171d094ca8d374219054879662fe7982462?cid=7661ac753f0f42869cc990bb8cc88514
+
+Requested : October 8th 2018, 12:34:48 pm
+_______________________
+Your Spotify Results for Rude!
+_______________________
+Artist Name : Rihanna
+Album Name : Rated R
+Song Name : Rude Boy
+Preview : null
+
+Requested : October 8th 2018, 12:36:34 pm
 _______________________
 Your Movie Results for Happy Gilmore!
 _______________________
@@ -43,13 +228,31 @@ Language : English
 Plot : A rejected hockey player puts his skills to the golf course to save his grandmother's house.
 Actors : Adam Sandler, Christopher McDonald, Julie Bowen, Frances Bay
 
-Request Time : 10/07/2018, 1:17:33 pm
+Requested : 10/08/2018, 12:37:07 pm
 _______________________
-Your Concert Results for The Green!
+Your Movie Results for Happy Gilmore!
 _______________________
-Venue Name : The Tikipunga Tavern
-Venue Location : Whangarei
-Date : 11/01/2018, 8:00 pm
+Movie Title : Happy Gilmore
+Released Date : 1996
+IMDB Rating : 7.0
+Rotten Tomatoes Rating : 60%
+Produced Country : USA
+Language : English
+Plot : A rejected hockey player puts his skills to the golf course to save his grandmother's house.
+Actors : Adam Sandler, Christopher McDonald, Julie Bowen, Frances Bay
 
-Request Time : 10/07/2018, 1:18:56 pm
+Requested : 10/08/2018, 12:37:23 pm
+_______________________
+Your Movie Results for Happy Gilmore!
+_______________________
+Movie Title : Happy Gilmore
+Released Date : 1996
+IMDB Rating : 7.0
+Rotten Tomatoes Rating : 60%
+Produced Country : USA
+Language : English
+Plot : A rejected hockey player puts his skills to the golf course to save his grandmother's house.
+Actors : Adam Sandler, Christopher McDonald, Julie Bowen, Frances Bay
+
+Requested : 10/08/2018, 12:39:27 pm
 _______________________

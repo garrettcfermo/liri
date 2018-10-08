@@ -1,6 +1,5 @@
 console.log('this is loaded');
 
-
 // Spotify API Keys
 exports.spotify = {
   id: process.env.SPOTIFY_ID,

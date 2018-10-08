@@ -1,4 +1,4 @@
-//Package Required
+//Packages Required
 require("dotenv").config()
 const keys = require("./keys")
 const Spotify = require("node-spotify-api");
@@ -49,11 +49,11 @@ _______________________`
 // Movie Function
 const movie = name => {
 
-  if(name===""){name = "Happy Gilmore"}
+  if (name === "") { name = "Happy Gilmore" }
 
   request(`http://www.omdbapi.com/?t=${name}&apikey=trilogy`,
     (err, r, data) => {
-      if (err) { console.log(err) }
+      if (err) { console.log("Can't find Movie") }
 
       var movieData = JSON.parse(data)
 
@@ -137,7 +137,7 @@ const askQuestion = () => {
     .then(answers => questionBreakout(answers.userChoice))
 }
 
-askQuestion()
+
 
 // UserChoice Breakout Function
 const questionBreakout = (choice) => {
@@ -205,3 +205,51 @@ const restart = _ => {
     }
   })
 }
+
+
+// Do What it Says Functionality
+
+if (process.argv[2] === "checkfile") {
+
+  fs.readFile(process.argv[3], 'utf8', (err, data) => {
+    if (err) { console.log(err) }
+    data = data.split(",")
+    // What type of action needs to be Done
+    var action = data[0]
+
+    // Information for the action
+    var actionInfo = data[1]
+
+    clear()
+    inquirer.prompt([
+      {
+        type: "list",
+        message: `Are you sure you want us to ${action} for ${actionInfo}?`,
+        name: "userChoice_2",
+        choices: ["YES", "NO"]
+      }
+    ]).then(answers => {
+
+      if (answers.userChoice_2 === "YES") {
+        switch (action) {
+          case "Find Song Information":
+            spotify(actionInfo)
+            break
+          case "Find Movie Information":
+            movie(actionInfo)
+            break
+          case "Find Band/Artist's next concert":
+            concert(actionInfo)
+            break
+        }
+      }
+      else if (answers.userChoice_2 === "NO") {
+        clear()
+        restart()
+      }
+    })
+  })
+} else{
+  askQuestion()
+}
+
